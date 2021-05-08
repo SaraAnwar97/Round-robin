@@ -19,7 +19,7 @@ Prototype : void enqueue(Queue *s,int value)<br>
 4• isEmpty<br>
 It returns 1 if queue is empty or 0 otherwise.<br>
 Prototype: int isEmpty(Queue *s);<br>
-## Application<br>
+## Application(Round Robin)<br>
 One of the main functions of the operation system is to schedule processes that the processor
 executes. One of the very popular algorithms for this scheduling is called Round Robin, where
 each process enters a queue, executes in a FIFO order, and after a specified time its execution
